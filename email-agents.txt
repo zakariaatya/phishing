@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/click", "destination": "/api/click" }
+  ]
+}
