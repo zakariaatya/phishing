@@ -1,0 +1,12 @@
+{
+  "name": "phishing-sim-vercel",
+  "version": "1.0.0",
+  "description": "Simulation de phishing pour audit - version Vercel + Turso",
+  "scripts": {
+    "import": "node scripts/import-participants.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "dotenv": "^16.4.5"
+  }
+}
