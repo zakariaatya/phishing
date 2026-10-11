@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulation de phishing — Audit de sécurité (version Vercel)
 
 Version serverless du projet, pensée pour un déploiement gratuit sur Vercel,
@@ -90,3 +91,7 @@ Identique à la version précédente : aucun mot de passe collecté, aucune page
 de connexion imitée, seules les données nécessaires (nom, email, campagne,
 date/heure de clic, IP) sont stockées, accès protégé par mot de passe,
 suppression possible à tout moment.
+=======
+# phishing
+audit eol
+>>>>>>> 2e24ad426643c57c276970a5673f6a5224361bdd
